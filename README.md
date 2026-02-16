@@ -62,10 +62,8 @@ messmate-project/
 │
 └── README.md
 
-yaml
-Copy code
 
----
+
 
 ## ⚙️ Environment Variables
 
@@ -75,8 +73,7 @@ PORT=10000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 
-yaml
-Copy code
+
 
 ---
 
@@ -87,8 +84,7 @@ Copy code
 git clone https://github.com/yourusername/messmate-project.git
 cd messmate-project
 
-shell
-Copy code
+
 
 ### 2️⃣ Backend Setup
 
@@ -126,13 +122,7 @@ Copy code
 - Frontend deployed on Vercel
 - MongoDB Atlas used as cloud database
 
----
 
-## 👨‍💻 Author
-
-Shree (Full Stack Developer)
-
----
 
 ## ⭐ Future Improvements
 
